@@ -1,0 +1,13 @@
+{
+	"build-app": {
+		"build-time-render": {
+			"root": "root",
+			"paths": [
+				"#home",
+				"#about",
+				"#profile"
+			]
+	},
+	"test-intern": {},
+	"create-app": {}
+}
